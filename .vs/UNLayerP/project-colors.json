@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fee357b9-05f2-422e-b654-03c890362f7b": {
+      "ProjectGuid": "fee357b9-05f2-422e-b654-03c890362f7b",
+      "DisplayName": "UNLayerP.API",
+      "ColorIndex": 0
+    },
+    "d911e5d6-4aa1-408d-886c-79e985a96124": {
+      "ProjectGuid": "d911e5d6-4aa1-408d-886c-79e985a96124",
+      "DisplayName": "UNLayerP.Core",
+      "ColorIndex": 1
+    },
+    "0354634f-f297-4b54-a4c7-991d6c7b5bce": {
+      "ProjectGuid": "0354634f-f297-4b54-a4c7-991d6c7b5bce",
+      "DisplayName": "UNLayerP.Data",
+      "ColorIndex": 2
+    },
+    "13248a0a-1f7c-4d4a-8068-19be00ab6d9a": {
+      "ProjectGuid": "13248a0a-1f7c-4d4a-8068-19be00ab6d9a",
+      "DisplayName": "UNLayerP.Service",
+      "ColorIndex": 3
+    },
+    "7eb3fe16-dcfc-4e94-bc63-d5a00880403a": {
+      "ProjectGuid": "7eb3fe16-dcfc-4e94-bc63-d5a00880403a",
+      "DisplayName": "UNLayerP.Web",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
